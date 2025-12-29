@@ -20,7 +20,7 @@ Currently focused on building real projects and getting better every day.
 
 **Familiar with**
   
-![Familiar With](https://skillicons.dev/icons?i=mysql,cs,java,python,cs)
+![Familiar With](https://skillicons.dev/icons?i=mysql,cs,java,python)
 
 
 
