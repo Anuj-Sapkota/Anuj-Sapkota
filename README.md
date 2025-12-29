@@ -20,6 +20,8 @@ Currently focused on building real projects and getting better every day.
 - Git & GitHub
 
 ---
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git)
+
 
 ### 📌 Current Focus
 Discipline > motivation  
