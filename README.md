@@ -13,15 +13,15 @@ Currently focused on building real projects and getting better every day.
 ---
 
 ### 🛠 Tech Stack
-- JavaScript, TypeScript 
-- React, Next, Tailwind CSS 
-- Node.js, Express  
-- MongoDB, PostgreSQL
-- Git & GitHub
 
----
-### My Skills
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgresql,mysql,python,cs,git)
+**Using now**
+  
+![Using Now](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,git)
+
+**Familiar with**
+  
+![Familiar With](https://skillicons.dev/icons?i=postgresql,mysql,oracle,python,cs)
+
 
 
 ### 📌 Current Focus
