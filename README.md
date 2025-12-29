@@ -20,7 +20,7 @@ Currently focused on building real projects and getting better every day.
 - Git & GitHub
 
 ---
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgresql,mysql,oracle,python,cs,git)
 
 
 ### 📌 Current Focus
