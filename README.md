@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Anuj 👋
 
-<!--
-**Anuj-Sapkota/Anuj-Sapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student | Learning full-stack development  
+Currently focused on building real projects and getting better every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm working on
+- MERN stack (MongoDB, Express, React, Node)
+- Backend architecture & clean project structure
+- Understanding how things *actually* work
+
+---
+
+### 🛠 Tech Stack
+- JavaScript, TypeScript 
+- React, Next, Tailwind CSS 
+- Node.js, Express  
+- MongoDB, PostgreSQL
+- Git & GitHub
+
+---
+
+### 📌 Current Focus
+Discipline > motivation  
+Consistency > intensity
+
+---
+
+> Trying to think clearly, build useful things, and stay calm in chaos.
