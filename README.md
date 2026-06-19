@@ -16,7 +16,7 @@ Currently focused on building real projects and getting better every day.
 
 **Using now**
   
-![Using Now](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,postgresql,mongodb,git)
+![Using Now](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,postgresql,mongodb,git,redis,docker)
 
 **Familiar with**
   
